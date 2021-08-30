@@ -3,12 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@cubejs-client/core": "^0.28.25",
+    "@cubejs-client/react": "^0.28.25",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.16.13",
+    "bootstrap": "^5.1.0",
+    "chart.js": "^3.5.1",
     "react": "^17.0.2",
+    "react-chartjs-2": "^3.0.4",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
+    "recharts": "^2.1.2",
+    "use-deep-compare": "^1.1.0",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
